@@ -1,0 +1,71 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1780847381819,
+  "projectRoot": "/data/data/com.termux/files/home/projects/rustlearning/rustlings",
+  "techStack": {
+    "languages": [
+      {
+        "name": "Rust",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "Cargo.toml"
+        ]
+      }
+    ],
+    "frameworks": [],
+    "packageManager": "cargo",
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": "cargo build",
+    "testCommand": "cargo test",
+    "lintCommand": "cargo clippy",
+    "devCommand": "cargo run",
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "exercises": {
+      "path": "exercises",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1780847381812,
+      "keyFiles": [
+        "README.md"
+      ]
+    },
+    "solutions": {
+      "path": "solutions",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1780847381812,
+      "keyFiles": [
+        "README.md"
+      ]
+    },
+    "target": {
+      "path": "target",
+      "purpose": null,
+      "fileCount": 2,
+      "lastAccessed": 1780847381813,
+      "keyFiles": [
+        "CACHEDIR.TAG"
+      ]
+    }
+  },
+  "hotPaths": [],
+  "userDirectives": []
+}

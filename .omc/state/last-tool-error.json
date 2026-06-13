@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"gh auth status 2>&1\",\"description\":\"Check gh CLI auth status\"}",
+  "error": "Exit code 127\n/data/data/com.termux/files/usr/bin/bash: line 1: gh: command not found",
+  "timestamp": "2026-06-07T15:51:11.373Z",
+  "retry_count": 1
+}
